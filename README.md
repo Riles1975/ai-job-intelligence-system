@@ -55,3 +55,23 @@ The core value is converting scattered external data into prioritized, actionabl
 ## Status
 
 Portfolio demonstration project.
+
+---
+
+## Additional Documentation
+
+### Project Case Study
+
+See full project case study:
+
+- case-study.md
+
+### Architecture Diagram
+
+See workflow architecture:
+
+- architecture-diagram.md
+
+### Screenshots
+
+Workflow screenshots available in repository assets.
