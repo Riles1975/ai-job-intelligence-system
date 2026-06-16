@@ -75,3 +75,13 @@ See workflow architecture:
 ### Screenshots
 
 Workflow screenshots available in repository assets.
+
+## Workflow Screenshots
+
+### Overview Workflow
+
+Workflow architecture screenshot available in repository assets.
+
+### Detailed Workflow
+
+Detailed workflow implementation screenshot available in repository assets.
